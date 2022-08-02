@@ -1,5 +1,13 @@
-### Hi there 👋
+#Jailer Shop 👋
+El proyecto “JAILER SHOP” está enfocado hacia los internos de la penitenciaría “El buen pastor”, para facilitarles el mercadeo de los productos elaborados en los diferentes talleres del centro de reclusión y así generar ingresos que faciliten el aporte económico a sus hogares y el sostenimiento personal .
 
+Este documento contiene el propósito, alcance, definiciones, acrónimos y abreviaturas, responsables e involucrados, referencias bibliográficas o webgrafía, descripción general, situación actual, situación esperada, justificación y observaciones del proceso del aplicativo web “Jailer Shop” y su desarrollo.
+
+Nicolas Rios
+Anyi Guisao
+Elizabeth Gomez
+Jaydy Marin
+Jhon Cruz
 <!--
 **jailershop/JailerShop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
